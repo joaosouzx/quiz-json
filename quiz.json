@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Quanto é 2+2?",
+    "ans1": "1",
+    "ans2": "2",
+    "ans3": "3",
+    "ans4": "4",
+    "correct_ans": "4"
+  },
+  {
+    "question": "Quanto é 3*3?",
+    "ans1": "8",
+    "ans2": "9",
+    "ans3": "10",
+    "ans4": "11",
+    "correct_ans": "9"
+  },
+  {
+    "question": "Quanto é 4*3?",
+    "ans1": "11",
+    "ans2": "12",
+    "ans3": "13",
+    "ans4": "14",
+    "correct_ans": "12"
+  },
+  {
+    "question": "Quanto é 2*8?",
+    "ans1": "13",
+    "ans2": "14",
+    "ans3": "15",
+    "ans4": "16",
+    "correct_ans": "16"
+  },
+  {
+    "question": "Quanto é 9/3?",
+    "ans1": "3",
+    "ans2": "4",
+    "ans3": "5",
+    "ans4": "6",
+    "correct_ans": "3"
+  },
+  {
+    "question": "Quanto é 8/2?",
+    "ans1": "2",
+    "ans2": "3",
+    "ans3": "4",
+    "ans4": "5",
+    "correct_ans": "4"
+  }
+]

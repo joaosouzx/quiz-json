@@ -1,0 +1,57 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #3d4657;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  margin: 1rem;
+}
+
+.answers {
+  margin: 2rem;
+  background: rgb(1, 97, 97);
+  border-radius: 10px;
+  width: 400px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.r {
+  display: none;
+}
+
+.correct {
+  background: rgb(7, 129, 58) !important;
+}
+
+.incorrect {
+  background: rgb(194, 25, 25) !important;
+}
+
+button {
+  background: rgb(0, 128, 128);
+  color: #ffffff;
+  font-weight: 600;
+  padding: 0.7rem 1.5rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
